@@ -9,8 +9,6 @@ Skills: C,C++,Java,Python,Data Structures and Algorithms,Html5, Css3, JavaScript
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/priyatam-ux)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/priyatam-chinnari/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://priyatam-ux.github.io/)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyatam-ux)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=priyatam-ux&show_icons=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=priyatam-ux)  
