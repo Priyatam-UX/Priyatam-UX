@@ -27,7 +27,7 @@ Skills: C,C++,Java,Python,Data Structures and Algorithms,Html5, Css3, JavaScript
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyatam-ux&show_icons=true&locale=en&layout=compact" alt="priyatam-ux" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyatam-ux&show_icons=true&locale=en" alt="priyatam-ux" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=priyatam-ux&show_icons=true&locale=en" alt="priyatam-ux" /></p>
 
 <p>&nbsp;<img align="center" src="https://activity-graph.herokuapp.com/graph?username=priyatam-ux" alt="priyatam-ux" /></p>
 
