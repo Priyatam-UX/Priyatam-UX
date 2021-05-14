@@ -17,7 +17,9 @@ Skills: C,C++,Java,Python,Data Structures and Algorithms,Html5, Css3, JavaScript
 - 📄 Know about my experiences [https://drive.google.com/file/d/1CIZ8gxfWTCacmjYICy7omSsK7p4mVNvO/view](https://drive.google.com/file/d/1CIZ8gxfWTCacmjYICy7omSsK7p4mVNvO/view)
 
 <h3 align="left">Connect with me:</h3>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/priyatam-ux)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/priyatam-chinnari/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://priyatam-ux.github.io/)  
+<a href="https://github.com/priyatam-ux"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'> 
+<a href="https://www.linkedin.com/in/priyatam-chinnari/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>
+<a href="https://priyatam-ux.github.io/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>  
 
 
 <h3 align="left">Languages and Tools:</h3>
