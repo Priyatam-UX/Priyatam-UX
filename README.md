@@ -13,6 +13,6 @@ Skills: C,C++,Java,Python,Data Structures and Algorithms,Html5, Css3, JavaScript
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=priyatam-ux)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=priyatam-ux)  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=priyatam-ux&show_icons=true)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=priyatam-ux) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=priyatam-ux&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/priyatam-ux)  
