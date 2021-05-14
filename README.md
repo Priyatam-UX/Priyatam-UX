@@ -8,7 +8,7 @@ Skills: C,C++,Java,Python,Data Structures and Algorithms,Html5, Css3, JavaScript
 
 <h3 align="center">Full-Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyatam-ux&label=Profile%20views&color=0e75b6&style=flat" alt="priyatam-ux" /> </p>
+<p align="left"> <img src="ttps://gpvc.arturio.dev/priyatam-ux" alt="priyatam-ux" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://priyatam-ux.github.io/](https://priyatam-ux.github.io/)
 
@@ -27,8 +27,10 @@ Skills: C,C++,Java,Python,Data Structures and Algorithms,Html5, Css3, JavaScript
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyatam-ux&show_icons=true&locale=en&layout=compact" alt="priyatam-ux" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=priyatam-ux&show_icons=true&locale=en" alt="priyatam-ux" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=priyatam-ux&show_icons=true&locale=en" alt="priyatam-ux" /></p>
 
 <p>&nbsp;<img align="center" src="https://activity-graph.herokuapp.com/graph?username=priyatam-ux" alt="priyatam-ux" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyatam-ux&" alt="priyatam-ux" /></p>
+<p align="left"> <img src="ttps://gpvc.arturio.dev/priyatam-ux" alt="priyatam-ux" /> </p>
+
