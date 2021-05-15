@@ -38,16 +38,9 @@ Skills: C,C++,Java,Python,Data Structures and Algorithms,Html5, Css3, JavaScript
 
 #### Github Stats
 
-![Priyatam-ux github stats](https://github-readme-stats.vercel.app/api?username=priyatam-ux&count_private=true&theme=tokyonight&hide=contribs,prs) 
-<!--START_SECTION:waka-->
-```text
-TypeScript   15 hrs 41 mins  ████████████████████▓░░░░   82.29 % 
-HTML         1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-Markdown     1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-YAML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-```
-<!--END_SECTION:waka-->
+![Priyatam-ux github stats](https://github-readme-stats.vercel.app/api?username=priyatam-ux&count_private=true&theme=tokyonight&hide=contribs,prs)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <p>&nbsp;<img align="center" src="https://activity-graph.herokuapp.com/graph?username=priyatam-ux" alt="priyatam-ux" /></p>
 
