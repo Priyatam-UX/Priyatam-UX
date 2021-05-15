@@ -7,7 +7,7 @@ Skills: C,C++,Java,Python,Data Structures and Algorithms,Html5, Css3, JavaScript
 
 
 
-<h3 align="center">Full-Stack Developer</h3>
+
 
 <p align="left"> <img src="https://gpvc.arturio.dev/priyatam-ux" alt="priyatam-ux" /> </p>
 
