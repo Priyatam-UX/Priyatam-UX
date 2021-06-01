@@ -46,6 +46,7 @@ Skills: C,C++,Java,Python,Data Structures and Algorithms,Html5, Css3, JavaScript
    <img src="https://img.shields.io/badge/-Node-blue?style=for-the-badge&logo=Node" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-SQL-informational?style=for-the-badge&logo=mysql&logoColor=ff0000" />&nbsp;&nbsp;&nbsp;&nbsp;
 <br/>
+  <br/>
   <img src="https://img.shields.io/badge/-DSA-black?style=for-the-badge&logo=ds-automobiles&logoColor=007afb" />&nbsp;&nbsp;&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/-Machine learning-black?style=for-the-badge" />&nbsp;&nbsp;&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/-Web Development-black?style=for-the-badge" />&nbsp;&nbsp;&nbsp;&nbsp;
