@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Priyatam
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #### Full-Stack Developer
-I am Priyatam and I am a Full Stack Developer, and hands-on experience using .Net languages and other web programming languages to create and implement software applications. Highly skilled in designing, testing, and developing software Thorough understanding of data structures and algorithms Knowledgeable of back-end and front-end development best practices Hands-on software troubleshooting experience.
+Highly skilled in designing, testing, and developing software Thorough understanding of data structures and algorithms Knowledgeable of back-end and front-end development best practices Hands-on software troubleshooting experience.
 
 Skills: C,C++,Java,Python,Data Structures and Algorithms,Html5, Css3, JavaScript, Bootstrap, React.js, Angular js, jQuery, Node.js, Express.js, MongoDB, Laravel, Php, MySql, Linux, Git, Machine Learning.Android, Kotlin, Artificial Intelligence, openCV
 
