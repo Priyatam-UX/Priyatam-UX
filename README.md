@@ -9,7 +9,7 @@ Skills: C,C++,Java,Python,Data Structures and Algorithms,Html5, Css3, JavaScript
 
 
 
-<p align="left"> <img src="https://gpvc.arturio.dev/priyatam-ux" alt="priyatam-ux" /> </p>
+
 
 - 👨‍💻 Check out my Portfolio -->> [https://priyatam-ux.github.io/](https://priyatam-ux.github.io/)
 
