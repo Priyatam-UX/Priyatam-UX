@@ -75,7 +75,7 @@ Skills: C,C++,Java,Python,Data Structures and Algorithms,Html5, Css3, JavaScript
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<p>&nbsp;<img align="center" src="https://activity-graph.herokuapp.com/graph?username=priyatam-ux" alt="priyatam-ux" /></p>
+
 
 
 
