@@ -121,7 +121,14 @@
 ---
 
 # 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Priyatam-UX/Priyatam-UX/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
-<!-- Enable after adding snake GitHub Action -->
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile! ⭐
+</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient&customColorList=12,20,24,30"/>
