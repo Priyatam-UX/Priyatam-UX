@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&text=Priyatam%20Ch&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Sr.%20ServiceNow%20Developer%20%7C%20Sr.%20Full%20Stack%20Developer&descAlignY=58&color=0:0f172a,25:1e3a8a,50:2563eb,75:7c3aed,100:ec4899"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=350&text=Priyatam%20Chinnari&fontSize=60&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=Senior%20ServiceNow%20Developer%20%7C%20Senior%20Full%20Stack%20Developer&descAlignY=58&color=0:0F172A,25:2563EB,50:7C3AED,75:EC4899,100:F97316"/>
 <h1 align="center">Hi 👋, I'm Priyatam ..</h1>
 
 <h3 align="center">
