@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Priyatam ..</h1>
 
 <h3 align="center">
-🚀 Senior ServiceNow Developer | Full Stack Developer | Tech Enthusiast
+🚀 Senior ServiceNow Developer | Full Stack Developer | Open Source Enthusiast
 </h3>
 
 <p align="center">
